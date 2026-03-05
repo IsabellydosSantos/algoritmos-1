@@ -1,5 +1,13 @@
 Resumo das Funções e Conceitos Básicos do Python
 
+Algoritmo: É uma sequência de passos, precisos e bem defindos, para a realizacao de uma tarefa.
+
+Programa: É uma sequência de comandos que indicam as operações que um computador deve executar para realizar uma dada tarefa.
+
+Programção: é o processo de escrita, teste e manutencao de um programa de computador.
+
+· Uma solução descreve uma sequência de comandos e passos que devem ser executados para se resolver um problema.
+
 1. Estruturas Condicionais
 
 if, elif, else
