@@ -1,9 +1,9 @@
 Matrizes
 
-Em Python, não existe um tipo nativo "matriz", mas podemos representá-las usando:
+Em Python, não existe um tipo nativo "matriz", mas é possível representá-las usando:
 
-1. Listas de listas (Python puro)
-2. Arrays do NumPy (biblioteca especializada)
+1. Listas de listas (Python)
+2. Arrays do NumPy (biblioteca)
 
 1. Matrizes com Listas de Listas
 
@@ -44,7 +44,7 @@ def soma_matrizes(A, B):
     
     return resultado
 
-# Exemplo de uso
+# Exemplo
 matriz_A = [[1, 2], [3, 4]]
 matriz_B = [[5, 6], [7, 8]]
 
@@ -61,7 +61,7 @@ imprimir_matriz(resultado_soma)
 
 2. Matrizes com NumPy
 
-O NumPy é a biblioteca mais popular para trabalhar com matrizes e cálculos numéricos em Python.
+O NumPy é uma biblioteca para trabalhar com matrizes e cálculos numéricos em Python.
 
 Instalação
 
