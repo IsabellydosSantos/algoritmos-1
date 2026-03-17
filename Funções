@@ -68,6 +68,7 @@ print(cumprimentar("Pedro", "Oi"))           # Output: Oi, Pedro!
 print(cumprimentar("João", "E aí", "?"))     # Output: E aí, João?
 
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 3. *args (Argumentos Arbitrários)
 
 · Função: Permite que a função receba um número variável de argumentos posicionais. O * transforma os argumentos em uma tupla.
@@ -151,6 +152,7 @@ conectar_banco(host="meuservidor.com", porta=3306)
 
 conectar_banco(host="192.168.1.1", usuario="root", senha="123456", banco="clientes")
 # Output: Conectando em 192.168.1.1:5432 como root
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 5. return - Retorno de Valores
