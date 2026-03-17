@@ -115,7 +115,7 @@ while True:  # Loop infinito
 # Output: 0, 1, 2, 3, 4
 
 
-FOR vs WHILE - Comparação Prática
+FOR vs WHILE - Comparação
 
 Mesma tarefa com FOR e WHILE:
 
@@ -139,7 +139,7 @@ while i <= 5:
 print(f"Soma com WHILE: {soma}")  # Output: 15
 
 
-Dica Importante:
+Observações:
 
 · Use FOR quando souber quantas iterações(repetições) precisa
 · Use WHILE quando a parada depende de uma condição específica
