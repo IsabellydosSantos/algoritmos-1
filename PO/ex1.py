@@ -23,3 +23,4 @@ else:
     else:
         raiz = -b / (2 * a)
         print("A raiz é: ", raiz)
+
