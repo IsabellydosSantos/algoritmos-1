@@ -12,4 +12,3 @@ for i in range(1, n + 1):
         divisores.append(i)
         quant = len(divisores)
         print(f"{n} tem {quant} divisores")
-
