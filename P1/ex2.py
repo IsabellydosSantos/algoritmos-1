@@ -34,4 +34,3 @@ else:
         numero += 1
     
     print(f"A soma dos {n} primeiros números primos é: {soma}")
-
