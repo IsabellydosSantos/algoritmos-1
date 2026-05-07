@@ -1,6 +1,6 @@
 def soma(matriz):
     soma = 0
-    for i in range(len(matriz)):
+    for i in range(min(len(matriz), len(matriz[0]))):
         soma += matriz[i][i]
     return soma
 
@@ -22,7 +22,8 @@ def main():
         print(linha)
 
     elem_diagonal = [matriz[i][i] for i in range(min(len(matriz), len(matriz[0])))]
-    print("+".join(f"{elem:.2f}"for elem in elem_diagonal))
+    print("+".join(str(elem) for elem in elem_diagonal))
+    print(f"Soma da diagonal: {soma(matriz)}")
 
 
 main()
