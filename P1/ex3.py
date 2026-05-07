@@ -13,3 +13,4 @@ else:
         else:
             i += 1
     print("Lista sem números pares: ", lista)
+
