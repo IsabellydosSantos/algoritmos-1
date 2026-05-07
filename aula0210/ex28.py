@@ -10,3 +10,4 @@ for i in range(len(palavras)):
         posicao.append(i + 1)
 
 print(f"A palavra {palavra} aparece {quant} vezes no texto nas posições {posicao}")
+
