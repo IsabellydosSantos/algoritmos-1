@@ -16,3 +16,4 @@ while n > 1:
         divisor += 1
 
 print(f"Os fatores primos de {num_orig} são: {fatores}")
+
