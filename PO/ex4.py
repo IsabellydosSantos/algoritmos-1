@@ -26,3 +26,4 @@ def verificar_matriz():
     return len(lista_bi), colunas
 
 verificar_matriz()
+
