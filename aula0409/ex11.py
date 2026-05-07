@@ -16,3 +16,4 @@ if len(divisores) == 2:
 else:
 
     print(f"{n} não é primo")
+
