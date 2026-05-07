@@ -9,3 +9,4 @@ while dividendo >= divisor:
 print("Quociente:", quociente)
 
 print("Resto:", dividendo)
+
