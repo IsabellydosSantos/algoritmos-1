@@ -12,3 +12,4 @@ if (x + y > z) and (x + z > y) and (z + y > x):
 else:
 
     print("Os valores não podem formar um triângulo, logo ele não é válido")
+
