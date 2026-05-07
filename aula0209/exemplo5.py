@@ -6,4 +6,3 @@ while n > 1:
     fat = fat * n
     n = n - 1
 print("Resultado:", fat)
-
