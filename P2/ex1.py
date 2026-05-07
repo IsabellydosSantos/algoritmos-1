@@ -10,3 +10,4 @@ for caractere in texto:
         vogais[caractere] += 1
 
 print(f"Espaços: {espacos}, a: {vogais['a']}, e: {vogais['e']}, i: {vogais['i']}, o: {vogais['o']}, u: {vogais['u']}")
+
