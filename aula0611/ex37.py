@@ -29,3 +29,4 @@ def verificar_matriz_quadrada():
 
 
 verificar_matriz_quadrada()
+
